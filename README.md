@@ -3,4 +3,4 @@
 ## Team Members 
 - Jason Oliver 
 - John Greenhaw
-- Daniel Lopze
+- Daniel Lopez
